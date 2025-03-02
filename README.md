@@ -6,9 +6,24 @@
   <strong>AI-Powered Access to MultiversX Blockchain</strong>
 </div>
 
+
+
 ## 🌟 Overview
 
 Axis Agent is an AI-powered assistant providing real-time access to the MultiversX blockchain network. Users can check account balances, view transaction history, and analyze network status using natural language queries. It also makes blockchain development more efficient by providing seamless access to MultiversX API and SDK documentation.
+
+
+## 📦 Project Repositories
+
+- **Main Application**: [axisagent](https://github.com/alperenbekci/axisagent) - Contains the AI-powered chat application
+- **Hackathon Project**: [Xperience-hackathon-axis](https://github.com/mericcintosun/Xperience-hackathon-axis) - Original hackathon submission
+- **Axis Agent**: [axis](https://github.com/alperenbekci/axis) - Main repository containing all project components
+
+## 🔗 Live Demos
+
+- Landing Page: [https://axis-ai.vercel.app/](https://axis-ai.vercel.app/)
+- AI Chat: [https://axisagent.vercel.app/](https://axisagent.vercel.app/)
+
 
 ## 🤔 Why Axis Agent?
 
@@ -17,6 +32,13 @@ Accessing blockchain data is often complex and requires technical expertise. Use
 Axis Agent simplifies this process using Natural Language Processing (NLP) and an AI-powered query engine, allowing users to effortlessly access blockchain insights through simple text commands.
 
 ## 🚀 Key Features
+
+<div align="center">
+  <img src="axisagent.jpg" alt="Axis Agent" width="2000"/>
+  <br>
+  <strong>AI-Powered Access to MultiversX Blockchain</strong>
+</div>
+
 
 - **Natural Language Processing (NLP)**: Execute complex blockchain queries with simple text commands
 - **Real-Time Data Access**: Get instant account balances, transaction history, and network status
